@@ -1,0 +1,14 @@
+D:\code\YourPad\YourPad\YourPad\bin\Debug\YourPad.exe
+D:\code\YourPad\YourPad\YourPad\bin\Debug\YourPad.pdb
+D:\code\YourPad\YourPad\YourPad\obj\x86\Debug\YourPad.exe
+D:\code\YourPad\YourPad\YourPad\obj\x86\Debug\YourPad.pdb
+D:\code\YourPad\YourPad\YourPad\obj\x86\Debug\YourPad.csprojResolveAssemblyReference.cache
+D:\Document And Settings2\73136\Desktop\记事本\YourPad\YourPad\obj\x86\Debug\YourPad.exe
+D:\Document And Settings2\73136\Desktop\记事本\YourPad\YourPad\obj\x86\Debug\YourPad.pdb
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\obj\x86\Debug\YourPad.exe
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\obj\x86\Debug\YourPad.pdb
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\bin\Debug\YourPad.exe
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\bin\Debug\YourPad.pdb
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\obj\x86\Debug\YourPad.csprojResolveAssemblyReference.cache
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\obj\x86\Debug\YourPad.Form1.resources
+D:\Document And Settings2\73136\Desktop\YourPad\YourPad\obj\x86\Debug\YourPad.csproj.GenerateResource.Cache

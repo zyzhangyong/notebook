@@ -1,0 +1,38 @@
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.FontForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.NoteForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.FormAddDir.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.FormDirectory.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.FormLogin.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.FormRegister.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.GraffitiForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.Properties.Resources.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\DesktopNote.exe.config
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\DAL.dll
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\DAL.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\Model.dll
+D:\Document And Settings2\73136\Desktop\记事本 V5.0\bin\Debug\Model.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\DesktopNote.exe.config
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.FontForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.NoteForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.FormAddDir.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.FormDirectory.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.FormLogin.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.FormRegister.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.GraffitiForm.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\DesktopNote.Properties.Resources.resources
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\DAL.dll
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\Model.dll
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\DAL.pdb
+D:\Document And Settings2\73136\Desktop\记事本 V5.0 - 副本\bin\Debug\Model.pdb

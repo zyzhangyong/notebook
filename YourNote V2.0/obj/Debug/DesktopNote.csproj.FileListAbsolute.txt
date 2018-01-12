@@ -1,0 +1,40 @@
+D:\桌面应用\DesktopNote\DesktopNote\bin\Debug\DesktopNote.exe.config
+D:\桌面应用\DesktopNote\DesktopNote\bin\Debug\DesktopNote.exe
+D:\桌面应用\DesktopNote\DesktopNote\bin\Debug\DesktopNote.pdb
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.csprojResolveAssemblyReference.cache
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.NoteForm.resources
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.Properties.Resources.resources
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.csproj.GenerateResource.Cache
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.exe
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.pdb
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.FontForm.resources
+D:\桌面应用\DesktopNote\DesktopNote\obj\Debug\DesktopNote.GraffitiForm.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\bin\Debug\DesktopNote.exe.config
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.exe
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.pdb
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\bin\Debug\DesktopNote.exe
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\bin\Debug\DesktopNote.pdb
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.FontForm.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.NoteForm.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.GraffitiForm.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.EventButtonForm.resources
+C:\Users\Administrator\Desktop\DesktopNote\DesktopNote\obj\Debug\DesktopNote.SelectDirectoryForm.resources
+F:\临时\wf98665_a625e823-9b21-4749-90c2-08a21d80e5ed\DesktopNote\DesktopNote\bin\Debug\DesktopNote.exe.config
+D:\Document And Settings2\73136\Desktop\便签\bin\Debug\DesktopNote.exe.config
+D:\Document And Settings2\73136\Desktop\便签\bin\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\便签\bin\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.EventButtonForm.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.FontForm.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.NoteForm.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.GraffitiForm.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.Properties.Resources.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.SelectDirectoryForm.resources
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.csproj.GenerateResource.Cache
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\便签\obj\Debug\DesktopNote.pdb
+D:\Document And Settings2\73136\Desktop\NoteBook\YourNoteV2.0\bin\Debug\DesktopNote.exe.config
+D:\Document And Settings2\73136\Desktop\NoteBook\YourNoteV2.0\obj\Debug\DesktopNote.exe
+D:\Document And Settings2\73136\Desktop\NoteBook\YourNoteV2.0\obj\Debug\DesktopNote.pdb
